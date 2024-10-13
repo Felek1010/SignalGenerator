@@ -2,7 +2,7 @@
 #include <Wire.h>
 #include <AiEsp32RotaryEncoder.h>
 #include "Display.h"
-
+//du Hurensohn!!
 // Rotary Encoder Setup
 #define SW_PIN D3   // Button Pin
 #define DT_PIN D5   // Data Pin
